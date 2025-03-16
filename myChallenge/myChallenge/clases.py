@@ -8,7 +8,7 @@ from funciones import *
 
 class Jugador:
     """
-    
+    HOLA AQUI CHANGES 
     
     """
     dim_tablero = dim_tablero
